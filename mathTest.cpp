@@ -3,6 +3,7 @@
 #include <chrono>
 #include <cstdlib>
 #include <tuple>
+
 using namespace std;
 
 double prime = 10888869450418352160768000001.0;

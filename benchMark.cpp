@@ -3,6 +3,8 @@
 #include "vectorMemoryTest.cpp"
 #include "mathTest.cpp"
 
+using namespace std;
+
 int repetitions;
 double vectorSum = 0;
 

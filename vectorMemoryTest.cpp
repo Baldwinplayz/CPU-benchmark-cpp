@@ -13,7 +13,7 @@ double vectorMemoryTest() {
     start = clock();
 
     for (int j = 0; j < 20; j++) {
-        memory = std::vector<int>{};
+        memory = std::vector<unsigned long long>();
         for (int i = 0; i < 10000000; i++) {
             memory.push_back(ullong);
         }

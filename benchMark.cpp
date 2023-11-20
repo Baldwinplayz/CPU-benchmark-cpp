@@ -1,7 +1,7 @@
 #include <iostream>
 #include <tuple>
-#include "/workspaces/CPU-benchmark-cpp/vectorMemoryTest.cpp"
-#include "/workspaces/CPU-benchmark-cpp/mathTest.cpp"
+#include "vectorMemoryTest.cpp"
+#include "mathTest.cpp"
 
 int repetitions;
 double vectorSum = 0;
